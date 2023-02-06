@@ -21,6 +21,12 @@
         <property name="format_sql">true </property>
         <property name=""> </property>
         
+        <!--  config dosyasinda entitileri ekleme
+        <mapping class="com.hb05_x.Student05" />
+        <mapping class="com.hb05_x.University05" />
+        -->
+        
+        
         
 
 <!--         mapping files
